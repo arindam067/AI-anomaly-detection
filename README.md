@@ -117,9 +117,9 @@ This code essentially compares two images based on their keypoint features and i
 
 <h1>PRESENTATION</h1>
 
-| ------- |
 | [pdf](https://drive.google.com/file/d/1EgbPplB645acDmA_ErF5sBqV0KjMGW_y/view?usp=drivesdk) |
-| ------- |
+| ----------- |
+| [Linked](https://www.linkedin.com/in/arindam-das-406a36200) |
 
 <h1 align="right">ARINDAM DAS</h1>
 <h3 align="right">Winner @SIH 2023 🏆🥇 || Student || Electrical Engineering</h3>
