@@ -110,8 +110,15 @@ This code essentially compares two images based on their keypoint features and i
 <img src="source/output_02.png" alt="Anomaly Detection" width="auto" height="auto" />
 
 <div style="display: flex; justify-content: center;">
-    <img src="source/code.png" alt="Anomaly Detection 1" width="33.3333333333%" height="auto" style="margin-right: 5px;" />
-    <img src="source/output_01.png" alt="Anomaly Detection 1" width="33.3333333333%" height="auto" style="margin-right: 5px;" />
+    <img src="source/code.png" alt="Anomaly Detection 1" width="33.3333333333%" height="auto" style="margin-right: 8px;" />
+    <img src="source/output_01.png" alt="Anomaly Detection 1" width="33.3333333333%" height="auto" style="margin-right: 8px;" />
     <img src="source/output_03.png" alt="Anomaly Detection 2" width="33.3333333333%" height="auto" />
 </div>
 
+<h1>PRESENTATION</h1>
+
+| [pdf](https://drive.google.com/file/d/1EgbPplB645acDmA_ErF5sBqV0KjMGW_y/view?usp=drivesdk) |
+| ------- |
+
+<h1 align="right">ARINDAM DAS</h1>
+<h3 align="right">Winner @SIH 2023 🏆🥇 || Student || EE'25 || Electrical Engineering</h3>
