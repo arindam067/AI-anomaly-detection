@@ -72,8 +72,8 @@ detect_anomaly(reference_image_path, test_image_path)
 --- 
 
 <div style="display: flex; justify-content: center;">
-    <img src="source/000 - reference.jpeg" alt="Anomaly Detection 1" width="500" height="auto" style="margin-right: 10px;" />
-    <img src="source/111 - test.jpeg" alt="Anomaly Detection 2" width="500" height="auto" />
+    <img src="source/000 - reference.jpeg" alt="Anomaly Detection 1" width="50%" height="auto" style="margin-right: 10px;" />
+    <img src="source/111 - test.jpeg" alt="Anomaly Detection 2" width="50%" height="auto" />
 </div>
 
 
