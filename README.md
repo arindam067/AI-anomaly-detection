@@ -108,8 +108,8 @@ This code essentially compares two images based on their keypoint features and i
 <h1>OUTPUT</h1>
 
 <img src="source/output_02.png" alt="Anomaly Detection" width="auto" height="auto" />
-<div style="display: flex; justify-content: center;">
-    <img src="source/code.png" alt="Alt Text 1" width="640" height="auto" style="margin-right: 10px;" />
-    <img src="source/output_01.png" alt="AI BASED DRONE APPLICATION IN CATCHMENT AREA" width="640" height="auto" style="margin-right: 10px;" />
-    <img src="source/output_03.png" alt="AI BASED DRONE APPLICATION IN CATCHMENT AREA" width="640" height="auto" />
-</div>
+
+<img src="source/code.png" alt="Anomaly Detection" width="auto" height="auto" />
+<img src="source/output_01.png" alt="Anomaly Detection" width="auto" height="auto" />
+<img src="source/output_03.png" alt="Anomaly Detection" width="auto" height="auto" />
+
